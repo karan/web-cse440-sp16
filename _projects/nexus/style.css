@@ -15,10 +15,15 @@ body {
   padding: 30px;
 }
 
+.section-heading {
+  margin-bottom: 30px;
+}
+
 .team-pic {
   margin-bottom: 20px;
 }
 
 .branding-blue {
   color: rgb(164, 194, 244);
+  border-bottom: 3px dotted rgb(164, 194, 244);
 }
