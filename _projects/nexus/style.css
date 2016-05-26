@@ -1,9 +1,9 @@
 body {
-  margin-top: 50px;
-  padding-bottom: 50px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .wrapper {
+  padding-top: 50px;
   padding-bottom: 50px;
 }
 
@@ -13,4 +13,12 @@ body {
 
 .spacer {
   padding: 30px;
+}
+
+.team-pic {
+  margin-bottom: 20px;
+}
+
+.branding-blue {
+  color: rgb(164, 194, 244);
 }
